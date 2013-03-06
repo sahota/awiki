@@ -5,6 +5,6 @@ class StaticPagesController < ApplicationController
   def first_page
   end
 
-  def second_pages
+  def second_page
   end
 end

@@ -3,6 +3,12 @@ Awiki::Application.routes.draw do
 
   get "static_pages/first_page"
 
+  get "static_pages/second_page"
+
+  get "static_pages/home"
+
+  get "static_pages/first_page"
+
   get "static_pages/second_pages"
 
   # The priority is based upon order of creation:
